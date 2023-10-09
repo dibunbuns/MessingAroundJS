@@ -16,3 +16,5 @@ startButton.addEventListener("click", function () {
     alert("I don't know who you are. Goodbye.");
   }
 });
+
+// In the future i would like to make this more secure and not have the password and username hardcoded.
